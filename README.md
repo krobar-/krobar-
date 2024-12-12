@@ -10,11 +10,6 @@ Welcome to my GitHub profile! I bring over two decades of experience in web deve
 - **Creative Tools**: Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere, InDesign)
 - **Accessibility**: WCAG compliance, inclusive design, and user-centered development
 
-## Professional Highlights
-
-- **Web Development**: Designed and developed the College of Business and Public Policy website ([business.uaa.alaska.edu](https://business.uaa.alaska.edu)), implementing accessible and secure solutions for students, faculty, and staff.
-- **Plugin Development**: Created custom WordPress plugins, such as a Talent Casting Database and video portfolio management tools, tailored to unique client needs.
-
 ## Contact Information
 
 - **Email**: [krobar@krobar.net](mailto:krobar@krobar.net)
