@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kurt Robar - Full Stack Web Developer & Communications Specialist
 
-<!--
-**krobar-/krobar-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I bring over two decades of experience in web development, user experience design, and digital communications. My expertise combines technical development and creative design to deliver accessible, secure, and user-focused solutions.
 
-Here are some ideas to get you started:
+## Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development**: PHP, JavaScript, HTML, CSS, MySQL, .NET, C#, Perl
+- **Frameworks & Platforms**: WordPress, Bootstrap
+- **Development Tools**: Git, npm, Gulp, Grunt, phpMyAdmin, Xcode, Sublime Text
+- **Creative Tools**: Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere, InDesign)
+- **Accessibility**: WCAG compliance, inclusive design, and user-centered development
+
+## Professional Highlights
+
+- **Web Development**: Designed and developed the College of Business and Public Policy website ([business.uaa.alaska.edu](https://business.uaa.alaska.edu)), implementing accessible and secure solutions for students, faculty, and staff.
+- **Plugin Development**: Created custom WordPress plugins, such as a Talent Casting Database and video portfolio management tools, tailored to unique client needs.
+
+## Contact Information
+
+- **Email**: [krobar@krobar.net](mailto:krobar@krobar.net)
+
+Thank you for visiting my profile. Feel free to explore my repositories and projects!
