@@ -13,6 +13,6 @@ Welcome to my GitHub profile! I bring over two decades of experience in web deve
 ## Contact Information
 
 - **Email**: [krobar@krobar.net](mailto:krobar@krobar.net)
-- **Portfolio**: krobar.net(https://krobar.net)
+- **Portfolio**: [krobar.net](https://krobar.net)
 
 Thank you for visiting my profile. Feel free to explore my repositories and projects!
